@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2-api-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/accessors-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/json-path-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/json-smart-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/slf4j-nop-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/httpClientLib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/httpClientLib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpClientLib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpClientLib/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
